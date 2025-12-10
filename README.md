@@ -889,7 +889,7 @@ We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.
 
 ### 🌟 **Built with ❤️ by Team EECE5554** 🌟
 
-**Northeastern University · Fall 2024**
+**Northeastern University · Fall 2025**
 
 [⬆ Back to Top](#-smart-motor-health-diagnostics-system)
 
